@@ -8,5 +8,6 @@
             "email": "iiccfu@qq.com"
         }
     ],
+    "license": "MIT",
     "require": {}
 }
