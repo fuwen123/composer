@@ -1,0 +1,12 @@
+{
+    "name": "fu/user",
+    "description": "user",
+    "type": "user",
+    "authors": [
+        {
+            "name": "fu",
+            "email": "iiccfu@qq.com"
+        }
+    ],
+    "require": {}
+}
